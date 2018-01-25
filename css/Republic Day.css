@@ -12,7 +12,9 @@ h2{
 
 body{
 	background-color: #ccc;
-	background-image:url("file:///Users/apple/Desktop/My%20First%20Project/Indian%20Flag/img/republic%20day1.jpg");
+	 background-image: url("http://www.rockingwallpapers.com/wp-content/uploads/2013/12/awesome-abstract-background-for-desktop-wallpaper-free-download-full-hd.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
 }
 .flag{
 font-size:5px;
